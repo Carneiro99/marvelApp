@@ -1,0 +1,14 @@
+com/heroesapp/BuildConfig.java
+ com.heroesapp.BuildConfig
+com/heroesapp/MainApplication.java
+ com.heroesapp.MainApplication
+ com.heroesapp.MainApplication$1
+com/heroesapp/MainActivity.java
+ com.heroesapp.MainActivity
+com/heroesapp/ReactNativeFlipper.java
+ com.heroesapp.ReactNativeFlipper
+ com.heroesapp.ReactNativeFlipper$1
+ com.heroesapp.ReactNativeFlipper$2
+ com.heroesapp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
